@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rick-and-morty-appcards/static/js/main.5829fed7.js",
+    "index.html": "/rick-and-morty-appcards/index.html",
+    "main.5829fed7.js.map": "/rick-and-morty-appcards/static/js/main.5829fed7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5829fed7.js"
+  ]
+}
